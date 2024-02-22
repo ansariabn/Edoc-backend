@@ -1,4 +1,4 @@
-# Doctor Appointment Booking System using Java, Spring Boot
+# Doctor Appointment Booking System using Java, Spring Boot, React.Js, MySql
 
 ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
 
