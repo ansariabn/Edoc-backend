@@ -67,7 +67,6 @@ This initiative facilitates online appointment requests for clients or patients 
 
 # The Project was developed using the following:
 
-Apache Version: 	`2.4.39`
 
 java: 			`17`
 
